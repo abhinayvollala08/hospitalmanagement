@@ -161,7 +161,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <Image
-                  {/* src="/doctor-hero.png" */}
+                  // src="/doctor-hero.png"
                   src="/doctor-hero2.jpg"
                   alt="Dr. Gopikanth in his clinic"
                   width={600}
