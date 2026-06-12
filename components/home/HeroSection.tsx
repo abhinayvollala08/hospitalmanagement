@@ -130,7 +130,8 @@ export default function HeroSection() {
           >
             <div className="relative rounded-3xl overflow-hidden border-4 border-white/20 shadow-2xl">
               <Image
-                src="/doctor-hero.png"
+                // src="/doctor-hero2.jpg"
+                src="/hero.jpg"
                 alt="Dr. Gopikanth — Nephrologist & Andrologist in Hyderabad"
                 width={560}
                 height={600}

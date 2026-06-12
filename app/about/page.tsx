@@ -101,7 +101,8 @@ export default function AboutPage() {
             <div className="relative">
               <div className="rounded-2xl overflow-hidden shadow-xl border border-[#e2e8f0]">
                 <Image
-                  src="/doctor-hero.png"
+                  // src="/doctor-hero.png"
+                  src="/doctor-hero2.jpg"
                   alt="Dr. Gopikanth — Specialist in Kidney & Andrology Care"
                   width={600}
                   height={550}
